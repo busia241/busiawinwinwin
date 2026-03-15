@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://1win-bonusplay.vercel.app/sitemap.xml
